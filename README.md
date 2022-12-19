@@ -9,4 +9,5 @@ I chose computer science after my freshman year. I learned how much I enjoyed co
 This was the first assignment for my web dev course. The task was to create a personal website all about me. 
 
 -Link to the website: https://coveymitchell.github.io/all-about-me/
+
 -Link to the repository: https://github.com/coveymitchell/all-about-me
