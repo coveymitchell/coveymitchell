@@ -4,9 +4,9 @@ My name is Mitchell Covey and I just graduated from the University of St Thomas 
 # Personal Website
 This was the first assignment for my web dev course. The task was to create a personal website all about me. This was my first attempt at web design and I learned a lot through this assignment.
 
--Link to the website: https://coveymitchell.github.io/all-about-me/
+-Link to the website: https://coveymitchell.github.io/mc/
 
--Link to the repository: https://github.com/coveymitchell/all-about-me
+-Link to the repository: https://github.com/coveymitchell/mc
 
 # Powerplant Dynamic Webserver
 This was the second assignment for my web dev course. Our group designed a webserver that showed off data relating to power plants around the world. This assignment was interesting because I learned so much about counties' energy usage. Seeing many large countries like the United States, China, Russia, and other countries over-reliance on fossil fuels was disheartening, but also demonstrated how important sustainable energy developments are. 
